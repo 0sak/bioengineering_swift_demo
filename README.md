@@ -9,3 +9,4 @@ https://www.youtube.com/watch?v=7MiuycGgUDc
 ## Required Libraries
 * [PeakSwift](https://github.com/CardioKit/PeakSwift)
 * [SwiftCSV](https://github.com/swiftcsv/SwiftCSV)
+* Built using XCode 15.4 and Swift 5
