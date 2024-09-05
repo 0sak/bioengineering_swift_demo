@@ -5,3 +5,7 @@ This a try to port the project [bioengineering-11-00596](https://gitlab.ub.uni-b
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/7MiuycGgUDc/0.jpg)](https://www.youtube.com/watch?v=7MiuycGgUDc)
 
 https://www.youtube.com/watch?v=7MiuycGgUDc
+
+## Required Libraries
+[PeakSwift](https://github.com/CardioKit/PeakSwift)
+[SwiftCSV](https://github.com/swiftcsv/SwiftCSV)
